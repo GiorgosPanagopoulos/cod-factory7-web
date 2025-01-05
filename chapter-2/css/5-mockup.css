@@ -1,0 +1,33 @@
+body {
+    background-color: lightgray;
+}
+
+.container {
+    width: 80%;
+    border: 1px solid black;
+    background-color: brown;
+}
+
+.contenair-fluid {
+    width: 90%;
+    border: 1px double red;
+}
+
+.aueb-text {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.2em;
+}
+
+.icon-small {
+    width: 150px;
+    height: auto;
+}
+
+.courses-wrapper {
+    background-color: aquamarine;
+}
+
+.courses-text {
+    color: beige;
+    font-size: 1.1;
+}
